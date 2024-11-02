@@ -1,0 +1,15 @@
+C:\Users\francisco.gomezc\Desktop\New folder\ECommerceAPI\ECommerceAPI.Business\bin\Debug\net8.0\ECommerceAPI.Business.deps.json
+C:\Users\francisco.gomezc\Desktop\New folder\ECommerceAPI\ECommerceAPI.Business\bin\Debug\net8.0\ECommerceAPI.Business.dll
+C:\Users\francisco.gomezc\Desktop\New folder\ECommerceAPI\ECommerceAPI.Business\bin\Debug\net8.0\ECommerceAPI.Business.pdb
+C:\Users\francisco.gomezc\Desktop\New folder\ECommerceAPI\ECommerceAPI.Business\bin\Debug\net8.0\ECommerceAPI.Data.dll
+C:\Users\francisco.gomezc\Desktop\New folder\ECommerceAPI\ECommerceAPI.Business\bin\Debug\net8.0\ECommerceAPI.Data.pdb
+C:\Users\francisco.gomezc\Desktop\New folder\ECommerceAPI\ECommerceAPI.Business\obj\Debug\net8.0\ECommerceAPI.Business.csproj.AssemblyReference.cache
+C:\Users\francisco.gomezc\Desktop\New folder\ECommerceAPI\ECommerceAPI.Business\obj\Debug\net8.0\ECommerceAPI.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\francisco.gomezc\Desktop\New folder\ECommerceAPI\ECommerceAPI.Business\obj\Debug\net8.0\ECommerceAPI.Business.AssemblyInfoInputs.cache
+C:\Users\francisco.gomezc\Desktop\New folder\ECommerceAPI\ECommerceAPI.Business\obj\Debug\net8.0\ECommerceAPI.Business.AssemblyInfo.cs
+C:\Users\francisco.gomezc\Desktop\New folder\ECommerceAPI\ECommerceAPI.Business\obj\Debug\net8.0\ECommerceAPI.Business.csproj.CoreCompileInputs.cache
+C:\Users\francisco.gomezc\Desktop\New folder\ECommerceAPI\ECommerceAPI.Business\obj\Debug\net8.0\ECommerc.28EF56F8.Up2Date
+C:\Users\francisco.gomezc\Desktop\New folder\ECommerceAPI\ECommerceAPI.Business\obj\Debug\net8.0\ECommerceAPI.Business.dll
+C:\Users\francisco.gomezc\Desktop\New folder\ECommerceAPI\ECommerceAPI.Business\obj\Debug\net8.0\refint\ECommerceAPI.Business.dll
+C:\Users\francisco.gomezc\Desktop\New folder\ECommerceAPI\ECommerceAPI.Business\obj\Debug\net8.0\ECommerceAPI.Business.pdb
+C:\Users\francisco.gomezc\Desktop\New folder\ECommerceAPI\ECommerceAPI.Business\obj\Debug\net8.0\ref\ECommerceAPI.Business.dll

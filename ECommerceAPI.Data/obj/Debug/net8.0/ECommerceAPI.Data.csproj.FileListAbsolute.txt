@@ -1,0 +1,12 @@
+C:\Users\francisco.gomezc\Desktop\New folder\ECommerceAPI\ECommerceAPI.Data\bin\Debug\net8.0\ECommerceAPI.Data.deps.json
+C:\Users\francisco.gomezc\Desktop\New folder\ECommerceAPI\ECommerceAPI.Data\bin\Debug\net8.0\ECommerceAPI.Data.dll
+C:\Users\francisco.gomezc\Desktop\New folder\ECommerceAPI\ECommerceAPI.Data\bin\Debug\net8.0\ECommerceAPI.Data.pdb
+C:\Users\francisco.gomezc\Desktop\New folder\ECommerceAPI\ECommerceAPI.Data\obj\Debug\net8.0\ECommerceAPI.Data.csproj.AssemblyReference.cache
+C:\Users\francisco.gomezc\Desktop\New folder\ECommerceAPI\ECommerceAPI.Data\obj\Debug\net8.0\ECommerceAPI.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\francisco.gomezc\Desktop\New folder\ECommerceAPI\ECommerceAPI.Data\obj\Debug\net8.0\ECommerceAPI.Data.AssemblyInfoInputs.cache
+C:\Users\francisco.gomezc\Desktop\New folder\ECommerceAPI\ECommerceAPI.Data\obj\Debug\net8.0\ECommerceAPI.Data.AssemblyInfo.cs
+C:\Users\francisco.gomezc\Desktop\New folder\ECommerceAPI\ECommerceAPI.Data\obj\Debug\net8.0\ECommerceAPI.Data.csproj.CoreCompileInputs.cache
+C:\Users\francisco.gomezc\Desktop\New folder\ECommerceAPI\ECommerceAPI.Data\obj\Debug\net8.0\ECommerceAPI.Data.dll
+C:\Users\francisco.gomezc\Desktop\New folder\ECommerceAPI\ECommerceAPI.Data\obj\Debug\net8.0\refint\ECommerceAPI.Data.dll
+C:\Users\francisco.gomezc\Desktop\New folder\ECommerceAPI\ECommerceAPI.Data\obj\Debug\net8.0\ECommerceAPI.Data.pdb
+C:\Users\francisco.gomezc\Desktop\New folder\ECommerceAPI\ECommerceAPI.Data\obj\Debug\net8.0\ref\ECommerceAPI.Data.dll
